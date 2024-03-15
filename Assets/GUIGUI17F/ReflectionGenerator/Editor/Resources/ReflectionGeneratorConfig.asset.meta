@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 89a8eb572d296b04d85d90f9a53ea64c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188361
+  packageName: Reflection Generator
+  packageVersion: 1.0.1
+  assetPath: Assets/GUIGUI17F/ReflectionGenerator/Editor/Resources/ReflectionGeneratorConfig.asset
+  uploadId: 467716

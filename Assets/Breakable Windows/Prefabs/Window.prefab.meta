@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1e957445a9f32b94c89175024aeb8520
+timeCreated: 1517250579
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 110383
+  packageName: Breakable Windows
+  packageVersion: 1.0
+  assetPath: Assets/Breakable Windows/Prefabs/Window.prefab
+  uploadId: 226882
